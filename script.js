@@ -54,10 +54,11 @@
 })();
 */
 const messages = [
-    "Are you sure?",
+    "Bebu, Are you sure?",
+    "With a Dubai chocolate and hot chocolate...",
     "Really sure??",
+    "What if I asked really nicely?",
     "Are you positive?",
-    "Pookie please...",
     "Just think about it!",
     "If you say no, I will be really sad...",
     "I will be very sad...",
